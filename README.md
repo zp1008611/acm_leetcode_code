@@ -7,7 +7,10 @@
 - 《算法竞赛进阶指南》
   - [刷题网址](https://www.acwing.com/activity/content/6/)
 
-# 环境配置
+# dev c++环境配置
+
+
+# vscode环境配置
 
 reference:
 
@@ -15,6 +18,7 @@ reference:
 - https://zhuanlan.zhihu.com/p/147366852?tdsourcetag=s_pctim_aiomsg
 
 step：
+
 - 控制面板，卸载“LLVM”(之前学opengl下的，但是编译很慢)
 - 之前装了mingw64，不用再装
 - vscode配置文件
